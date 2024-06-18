@@ -1,2 +1,0 @@
-# sparktron.github.io
-website
